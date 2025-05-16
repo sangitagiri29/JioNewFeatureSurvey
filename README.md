@@ -9,7 +9,7 @@ The survey aims to:
 - Gather insights to support Jio’s strategic pillar of Customer-Centric Innovation.
 
 ## Survey Link
-Access the survey at: [Jio SafeNet Survey](https://yourusername.github.io/JioSafeNet-Survey/)
+Access the survey at: [Jio SafeNet Survey](https://sangitagiri29.github.io/JioNewFeatureSurvey/)
 
 ## Key Questions
 1. How concerned are parents about children’s exposure to inappropriate online content?
